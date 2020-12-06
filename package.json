@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/Yuliia14/interesection-observer/issues"
   },
-  "homepage": "https://yuliia14.github.io/interesection-observer/",
+  "homepage": "https://yuliia14.github.io/interesection-observer",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
